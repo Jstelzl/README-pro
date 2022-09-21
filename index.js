@@ -162,6 +162,7 @@ const writeToFile = fileContent => {
 };
 
 // TODO: Create a function to initialize app
+// Function call to initialize app
 function init() {
     inquirer.prompt(prompts)
         .then(function(data) {
@@ -170,7 +171,7 @@ function init() {
             writeToFile(fileContent)
         });
 }
-// Function call to initialize app
+
 init();
 
 // exports
