@@ -1,5 +1,5 @@
 
-  # Josiah's amazing readme
+  # My amazing project
 
   # License:
   MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -18,20 +18,20 @@
 
   ## Installation Process:
   ### Must install for this app:
-  ### kjsdhfkjhksj
+  ### kjhkjhkjhkjh
 
   ## Usage Info:
-  ### ksjdhkfjshkdj
+  ### kjhkjhkjhkjh
 
   ## Contibutor Guidlines:
-  ### ksjhdkfjhskj
+  ### kjhkjhkjhkjh
 
   ## Test Instructions:
   ### Run the following commands in your terminal to test this app:
-  ### kjshdkfjhskjd
+  ### kjhkjhkjh
 
   ## Questions: 
   ### If you have questions contact me:
   ### GitHub: https://github.com/Jstelzl
   ### or
-  ### Email: test@gmail.com
+  ### Email: test@test.com
