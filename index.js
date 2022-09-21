@@ -28,12 +28,12 @@ const prompts = [
     {
         type: 'input',
         name: 'title',
-        message: 'What is your project title?',
+        message: 'Enter your project title?',
         validate: titleInput => {
             if (titleInput) {
                 return true;
             } else {
-                console.log('Please enter a project title!');
+                console.log('Enter a project title!');
                 return false;
             }
         }
@@ -46,7 +46,7 @@ const prompts = [
             if (description) {
                 return true;
             } else {
-                console.log('Please enter a description!');
+                console.log('Enter a description!');
                 return false;
             }
         }
@@ -55,12 +55,12 @@ const prompts = [
     {
         type: 'input',
         name: 'installation',
-        message: 'How do I install your projects?',
+        message: 'How can a user install your project?',
         validate: installationInput => {
             if (installationInput) {
                 return true;
             } else {
-                console.log('Please provide steps for installation.');
+                console.log('Please provide steps for installation');
                 return false;
             }
         }
