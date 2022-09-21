@@ -1,8 +1,8 @@
 
-  # Hamburger Heaven
+  # Hamburger heaven
 
   ## License:
-  Perl<br>[![License: Artistic-2.0](https://img.shields.io/badge/License-Perl-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
+  MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
   ## Table of Contents:
@@ -14,24 +14,24 @@
   #### - [Questions](#questions)
 
   ## Description:
-  #### Shows users where the best hamburger places are
+  #### lots of hamburgers
 
   ## Installation Process:
   #### Must install for this app:
-  ### The app store
+  ### "sudo install hamburger"
 
   ## Usage Info:
-  #### To give users a variety of burger places
+  #### to get people to eat more hamburgers
 
   ## Contibutor Guidlines:
   #### venmo
 
   ## Test Instructions:
   #### Run the following commands in your terminal to test this app:
-  #### By using it
+  #### by eating hamburgers
 
   ## Questions: 
   #### If you have questions contact me:
   #### GitHub: https://github.com/Jstelzl
   #### or
-  #### Email: I don't have a computer
+  #### Email: hamburger@hamburger.com
