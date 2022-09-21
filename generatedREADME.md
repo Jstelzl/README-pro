@@ -1,5 +1,5 @@
 
-  # My amazing project
+  # My project
 
   # License:
   MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -14,24 +14,24 @@
   ### - [Questions](#questions)
 
   # Description:
-  ### amazing
+  ### kjhkjhkjhkjhkj
 
   ## Installation Process:
   ### Must install for this app:
   ### kjhkjhkjhkjh
 
   ## Usage Info:
-  ### kjhkjhkjhkjh
+  ### kjhkjhkjhkjhkj
 
   ## Contibutor Guidlines:
   ### kjhkjhkjhkjh
 
   ## Test Instructions:
   ### Run the following commands in your terminal to test this app:
-  ### kjhkjhkjh
+  ### kjhkjhkjhkjh
 
   ## Questions: 
   ### If you have questions contact me:
-  ### GitHub: https://github.com/Jstelzl
+  ### GitHub: https://github.com/ Jstelzl
   ### or
   ### Email: test@test.com
