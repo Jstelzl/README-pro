@@ -60,7 +60,7 @@ function generateMarkdown(data) {
   ### - [License](#license)
   ### - [Installation](#installation)
   ### - [Usage](#usage)
-  ### - [Contribution Guidlines](#contribution)
+  ### - [Contribution Guidlines](#contributors)
   ### - [Tests](#tests)
   ### - [Questions](#questions)
 
@@ -74,12 +74,12 @@ function generateMarkdown(data) {
   ## Usage Info:
   ### ${data.usage}
 
-  ## Contribution Guidlines:
+  ## Contibutor Guidlines:
   ### ${data.contributors}
 
   ## Test Instructions:
   ### Run the following commands in your terminal to test this app:
-  ### ${data.test}
+  ### ${data.tests}
 
   ## Questions: 
   ### If you have questions contact me:

@@ -80,7 +80,7 @@ const prompts = [
     },
     {
         type: 'input',
-        name: 'contribution',
+        name: 'contributors',
         message: 'How can others contribute to your poject?',
         validate: contributionInput => {
             if (contributionInput) {
@@ -93,7 +93,7 @@ const prompts = [
     },
     {
         type: 'input',
-        name: 'test',
+        name: 'tests',
         message: 'How do you test this project?',
         validate: testInput => {
             if(testInput) {

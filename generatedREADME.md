@@ -1,5 +1,7 @@
 
-  # Josiah's amazing project
+  # Josiah's amazing readme
+
+  # License:
   MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -7,29 +9,29 @@
   ### - [License](#license)
   ### - [Installation](#installation)
   ### - [Usage](#usage)
-  ### - [Contributors](#constributors)
+  ### - [Contribution Guidlines](#contributors)
   ### - [Tests](#tests)
   ### - [Questions](#questions)
 
   # Description:
-  ### It goes cool stuff
+  ### amazing
 
   ## Installation Process:
   ### Must install for this app:
-  ### jhjhjhhjjhjh
+  ### kjsdhfkjhksj
 
   ## Usage Info:
-  ### hjhjhjhjhjhjhjhj
+  ### ksjdhkfjshkdj
 
-  ## Contribution Guidlines:
-  ### hjhjjhjhjhjhjhjh
+  ## Contibutor Guidlines:
+  ### ksjhdkfjhskj
 
   ## Test Instructions:
   ### Run the following commands in your terminal to test this app:
-  ### jhjhjjhjhjhjjhjhjhjhjhhhjhhj
+  ### kjshdkfjhskjd
 
   ## Questions: 
   ### If you have questions contact me:
   ### GitHub: https://github.com/Jstelzl
   ### or
-  ### Email: josiahstelzl@gmail.com
+  ### Email: test@gmail.com
