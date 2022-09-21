@@ -1,8 +1,8 @@
 
-  # f
+  # Hamburger Heaven
 
   ## License:
-  Apache 2.0<br>[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  Perl<br>[![License: Artistic-2.0](https://img.shields.io/badge/License-Perl-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
 
 
   ## Table of Contents:
@@ -14,24 +14,24 @@
   #### - [Questions](#questions)
 
   ## Description:
-  #### f
+  #### Shows users where the best hamburger places are
 
   ## Installation Process:
   #### Must install for this app:
-  ### f
+  ### The app store
 
   ## Usage Info:
-  #### f
+  #### To give users a variety of burger places
 
   ## Contibutor Guidlines:
-  #### f
+  #### venmo
 
   ## Test Instructions:
   #### Run the following commands in your terminal to test this app:
-  #### f
+  #### By using it
 
   ## Questions: 
   #### If you have questions contact me:
-  #### GitHub: https://github.com/f
+  #### GitHub: https://github.com/Jstelzl
   #### or
-  #### Email: f
+  #### Email: I don't have a computer
