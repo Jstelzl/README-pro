@@ -1,8 +1,8 @@
 
-  # f
+  # Hamburger king
 
   ## License:
-  Apache 2.0<br>[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
   ## Table of Contents:
@@ -14,24 +14,24 @@
   #### - [Questions](#questions)
 
   ## Description:
-  #### f
+  #### Helps people find burger joints
 
   ## Installation Process:
   #### Must install for this app:
-  ### f
+  ### Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
   ## Usage Info:
-  #### f
+  #### getting people to eat more burgers
 
   ## Contibutor Guidlines:
-  #### f
+  #### send a venmo :)
 
   ## Test Instructions:
   #### Run the following commands in your terminal to test this app:
-  #### f
+  #### Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
   ## Questions: 
   #### If you have questions contact me:
-  #### GitHub: https://github.com/f
+  #### GitHub: https://github.com/Jstelzl
   #### or
-  #### Email: f
+  #### Email: test@test.com
