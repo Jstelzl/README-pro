@@ -1,8 +1,8 @@
 
-  # Hamburger king
+  # Hot Shots
 
   ## License:
-  MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
 
 
   ## Table of Contents:
@@ -14,24 +14,24 @@
   #### - [Questions](#questions)
 
   ## Description:
-  #### Helps people find burger joints
+  #### Hot Shots is a unique application which allows for hot cause loving users to find new sauces and share favories. Users will create an accout, login, and voila, hot sauce fans can now experience the world of spice at it's finest!
 
   ## Installation Process:
   #### Must install for this app:
-  ### Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  ### n/a
 
   ## Usage Info:
-  #### getting people to eat more burgers
+  #### For Hot Sauce fans to have the ability to find and share favs with the fellow hot cause fans.
 
   ## Contibutor Guidlines:
-  #### send a venmo :)
+  #### n/a
 
   ## Test Instructions:
   #### Run the following commands in your terminal to test this app:
-  #### Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  #### n/a
 
   ## Questions: 
   #### If you have questions contact me:
-  #### GitHub: https://github.com/Jstelzl
+  #### GitHub: https://github.com/n/a
   #### or
-  #### Email: test@test.com
+  #### Email: n/a
